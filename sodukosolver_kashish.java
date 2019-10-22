@@ -1,3 +1,5 @@
+import java.io.*; 
+import java.util.*; 
 class Sudoku
 { 
 public static boolean isSafe(int[][] board,  
